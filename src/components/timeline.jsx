@@ -15,14 +15,36 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Software Consultant <span>2019-Current</span></h2>
+                        <p>I have recently joined Prospecta Software as a Software Consultant . My major part of the work has been working with Excel Add-ins, SAP and MDO [company Product] </p>
+                      </div>
+                    </div>
+                  </article>
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Software Developer <span>2017-2019</span></h2>
+                        <p>I had joined IKM Investor Pvt Ltd as a C# Developer. My major part of the work has been Developing new trading tools,financial tools and also upgrading old tools </p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>IT-ADMIN <span>Jan-2017-Apr-2017</span></h2>
+                        <p>I had joined Equitack Pvt Ltd as a IT administrator. My major part of the work has been oversee and maintain all aspects of a company's computer infrastructure. This includes maintaining networks, servers and security programs and systems</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +54,20 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Postgraduation at JIM-Kanpur <span>2015-2017</span></h2>
+                        <p>I have completed my Postgraduation studies with Master in Computer Applications). 
+                          I have taken courses like DSA, OOPs, Computer Networks over the years and have better understanding of these subjects..</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Undergraduation at VSGOI <span>2012-2015</span></h2>
+                        <p>I have completed my graduation studies with Bachelor in Computer Applications). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects..</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +77,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Primary and Higher Education <span>1998-2010</span></h2>
+                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths. During my time at school, I have developed interest in solving complex problems of the fundamental physics. and  I started interest in Computer</p> 
                       </div>
                     </div>
                   </article>

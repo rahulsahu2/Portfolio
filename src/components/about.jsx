@@ -13,7 +13,10 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
+                    <p>Hi! I am a Software Consultant at <a href="https://www.prospecta.com/">Prospecta Software Gurgaon</a></p>
+                    <p>MCA PostGraduate | Microsoft certified | 2+ years of experience in Software Development | Sound understanding of c#, ASP.Net, Python, PHP, JSON, Database, and SQL queries</p>
+                    <p>Capable of Testing, Documentation, and Deployment on live project</p>
+                    <p>I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
                     <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
                     </div>
                 </div>
@@ -38,7 +41,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building websites using JavaScript,React,HTML,CSS,PHP</p>
                 </div>
                 </div>
             </div>
@@ -48,8 +51,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <h3>Windows Development</h3>
+                    <p>Developing Windows Applications and Services using C#</p>
                 </div>
                 </div>
             </div>
@@ -59,20 +62,20 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>Financial Tools</h3>
+                    <p>sound knowledge of Trading Tools and Data Analysis</p>
                 </div>
                 </div>
             </div>
-            {/*
+            
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
+                    <h3>Data Structures and Algo.</h3>
+                    <p>Data Structures and Algorithms are the heart of programming and I loved it</p>
                 </div>
                 </div>
             </div>
@@ -82,8 +85,8 @@ export default class About extends Component {
                     <i className="icon-layers2" />
                 </span>
                 <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
+                    <h3>Source Control</h3>
+                    <p>I am comfortable with version control concepts and tools like Git</p>
                 </div>
                 </div>
             </div>
@@ -93,12 +96,12 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
+                    <h3>DB and Additional Software</h3>
+                    <p>Sound knowledge of MySQL, MSSql, MS-Excel,Visual Studio,VSCode</p>
                 </div>
                 </div>
             </div>
-            */}
+           
             </div>
         </div>
         </section>
