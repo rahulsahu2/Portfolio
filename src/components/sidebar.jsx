@@ -8,7 +8,7 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/about.jpeg)'}} />
+              <div className="author-img" style={{backgroundImage: 'url(images/my-DP.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Rahul Sahu</a></h1>
               <span className="email"><i className="icon-mail"></i> rahulsa667@gmail.com</span>
             </div>
